@@ -6,6 +6,11 @@ Enhance low-light **images** and **videos** using deep learning models like U-Ne
 ## 🚀 Try the App
 👉 [Launch on Hugging Face Spaces](https://huggingface.co/spaces/ymerta/low-light-enhancer)
 
+## 📖 Medium Blog
+
+Check out the full story behind this project on Medium:  
+👉 [Boosting Low-Light Images with U-Net and EnlightenGAN](https://medium.com/@ymertakan/boosting-low-light-images-with-u-net-and-enlightengan-59f7aa1a2740)
+
 ## 🔍 Features
 
 - 🖼️ **Image** & 🎬 **Video** enhancement  
