@@ -1,5 +1,5 @@
 
-# 🌙 Low-Light Enhancer
+# Low-Light Enhancer
 
 Enhance low-light **images** and **videos** using deep learning models like U-Net and EnlightenGAN – all in your browser thanks to Gradio and Hugging Face Spaces.
 
