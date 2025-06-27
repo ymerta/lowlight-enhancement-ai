@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+opencv-python
+Pillow
+onnxruntime
+gradio
+git+https://github.com/arsenyinfo/EnlightenGAN-inference
