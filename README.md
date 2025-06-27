@@ -8,7 +8,6 @@ Medium Blog: 📝 Medium Post
 An AI-powered Gradio application that brightens dark images and videos using deep learning models. Upload your low-light content and enhance it instantly with three model options!
 
 🔍 Features
-
 	•🖼️ Image & 🎬 video enhancement
  
 	•✨ 3 model options: U-Net (MSE), U-Net (VGG + SSIM), EnlightenGAN (ONNX)
@@ -28,13 +27,14 @@ An AI-powered Gradio application that brightens dark images and videos using dee
  
 
 ⚙️ How to Run Locally
-git clone https://github.com/ymerta/low-light-enhancer.git
 
-cd low-light-enhancer
+•git clone https://github.com/ymerta/low-light-enhancer.git
 
-pip install -r requirements.txt
+•cd low-light-enhancer
 
-python app.py
+•pip install -r requirements.txt
+
+•python app.py
 
 
 📁 File Structure
