@@ -3,26 +3,26 @@
 
 Enhance low-light **images** and **videos** using deep learning models like U-Net and EnlightenGAN – all in your browser thanks to Gradio and Hugging Face Spaces.
 
-## 🚀 Try the App
-👉 [Launch on Hugging Face Spaces](https://huggingface.co/spaces/ymerta/low-light-enhancer)
+## Try the App
+ [Launch on Hugging Face Spaces](https://huggingface.co/spaces/ymerta/low-light-enhancer)
 
-## 📖 Medium Blog
+## Medium Blog
 
 Check out the full story behind this project on Medium:  
-👉 [Boosting Low-Light Images with U-Net and EnlightenGAN](https://medium.com/@ymertakan/boosting-low-light-images-with-u-net-and-enlightengan-59f7aa1a2740)
+[Boosting Low-Light Images with U-Net and EnlightenGAN](https://medium.com/@ymertakan/boosting-low-light-images-with-u-net-and-enlightengan-59f7aa1a2740)
 
 ## 🔍 Features
 
-- 🖼️ **Image** & 🎬 **Video** enhancement  
-- ✨ **3 model options**:  
+- **Image** & 🎬 **Video** enhancement  
+- **3 model options**:  
   - U-Net (MSE)  
   - U-Net (VGG + SSIM)  
   - EnlightenGAN (ONNX)  
-- 💡 **Real-time enhancement on the web**  
-- 🛠️ **Hugging Face Spaces deployment**, no server required  
+- **Real-time enhancement on the web**  
+- **Hugging Face Spaces deployment**, no server required  
  
 
-## 🧠 Models Used
+## Models Used
 
 🔹 **U-Net (MSE):**  
 Classic encoder-decoder CNN trained with MSE loss to brighten images by minimizing pixel-wise differences.
@@ -34,7 +34,7 @@ Enhanced perceptual quality using a combination of VGG feature loss and Structur
 A GAN-based model that doesn't need paired training data. Exported in ONNX format for faster, lightweight inference.
  
 
-## 🛠️ Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/ymerta/lowlight-enhancement-ai.git
