@@ -13,7 +13,7 @@ Check out the full story behind this project on Medium:
 
 ## 🔍 Features
 
-- **Image** & 🎬 **Video** enhancement  
+- **Image** & **Video** enhancement  
 - **3 model options**:  
   - U-Net (MSE)  
   - U-Net (VGG + SSIM)  
